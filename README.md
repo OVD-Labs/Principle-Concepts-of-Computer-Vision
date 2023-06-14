@@ -22,4 +22,4 @@ In the second part of the task, various tutorials were followed to delve into sp
 By completing these tasks, the project achieved a comprehensive understanding of computer vision principles and techniques. The exploration of data augmentation techniques, along with the utilization of tools and frameworks, provided valuable insights into the potential and effectiveness of computer vision applications.
 
 ## Deliverables:
-The repository includes the Computer Vision Tutorials and Group Project<br />
+**The repository includes the Computer Vision Tutorials and Group Project.** <br />
